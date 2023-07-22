@@ -1,0 +1,2 @@
+fruta = input()
+print(fruta[:])
